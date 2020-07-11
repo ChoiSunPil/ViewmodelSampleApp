@@ -3,7 +3,7 @@
 ### ViewModel
 
 간단하게 **ViewModel**만을 사용한 앱을 만들어봤다.
-
+심지용 바보
 ### 참고  
 
 - [Court Counter Sample App](https://github.com/udacity/Court-Counter)  
